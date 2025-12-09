@@ -19,9 +19,9 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 
-NAME: POOJA S
+NAME: Subhashini B
 
-REG NO: 212223040146
+REG NO: 212223040211
 
 <img width="1492" height="405" alt="image" src="https://github.com/user-attachments/assets/8e256c20-559c-4a82-9d5e-6e04de930f8b" />
 
